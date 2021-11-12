@@ -1,0 +1,9 @@
+{
+  "name": "addresses",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Stability addresses",
+  "main": "index.js",
+  "repository": "https://github.com/stabilitydao/addresses.git",
+  "license": "MIT"
+}
