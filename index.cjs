@@ -7,6 +7,11 @@ const KOVAN = 42
 // const MUMBAI = 80001
 
 module.exports = {
+  MAINNET,
+  ROPSTEN,
+  RINKEBY,
+  GOERLI,
+  KOVAN,
   [MAINNET]: {
     token: '0x3fa5F9c876BEbB41B8924633850b1a9922f7E4F9',
     devFund: '0xEb49018157bAF7F1B385657D10fF5a5a5F4BB4c9',
