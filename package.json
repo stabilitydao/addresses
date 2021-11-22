@@ -1,6 +1,5 @@
 {
   "name": "@stabilitydao/addresses",
-  "type": "module",
   "version": "1.0.0",
   "description": "Stability addresses",
   "main": "index.js",
