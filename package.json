@@ -1,7 +1,7 @@
 {
   "name": "@stabilitydao/addresses",
   "type": "module",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Stability addresses",
   "main": "index.js",
   "repository": "https://github.com/stabilitydao/addresses.git",
