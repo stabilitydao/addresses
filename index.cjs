@@ -21,6 +21,11 @@ module.exports = {
     token: '0x29E4d6c08e3AD060Dc2fC8DCE70AaB8C8c57563F',
     devFund: '0x90AfD7eEE756c85Aa9800d33Fda674618ddECFbf',
     weth: '0xc778417e063141139fce010982780140aa0cd5ab',
+    dToken: '0x424E1eAe04a2580EcD4d5f19Ad5285cC2b05a05C',
+    dPool: '0x20169ebb1b60ee0c45ECAa5235551cC69Ea788C0',
+    dPayers: [
+      '0x6BaF629618551Cb7454013F67f5d4A9119A61627',
+    ],
   },
   [RINKEBY]: {
     token: '0x7D68ECf1762bA27120d0f98BFcFa0da67eb15860',
