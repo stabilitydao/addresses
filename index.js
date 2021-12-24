@@ -21,6 +21,8 @@ export default {
     dPayers: [
       '0x6BaF629618551Cb7454013F67f5d4A9119A61627',
     ],
+    govTl: '0x2f7438f01C842f0C5Ab6F99b84Ad62DF97BBf9ca',
+    gov: '0x76fFD18aB85039842813Dc7adED26636bD03451F',
   },
   [RINKEBY]: {
     token: '0x7D68ECf1762bA27120d0f98BFcFa0da67eb15860',
