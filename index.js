@@ -3,8 +3,8 @@ export const ROPSTEN = 3
 export const RINKEBY = 4
 export const GOERLI = 5
 export const KOVAN = 42
-// export const OPTIMISTIC_KOVAN = 69
 export const MUMBAI = 80001
+// export const OPTIMISTIC_KOVAN = 69
 
 export default {
   [MAINNET]: {
@@ -49,6 +49,6 @@ export default {
       '0x4dC2E6Bd77842DAf7890205DFe14aC86FbC61421',
     ],
     govTl: '0xE6b2Da12b51E7a6561cEB04C9cE9E29487c38F23',
-    gov: '0xd4A5f0A6Bf09c1DC042254329ac144D99412f3a5',
+    gov: '0xC2eAfC3F3Ee1677A1C0B827Aa3a410D74653FC91',
   }
 }
