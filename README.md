@@ -8,11 +8,16 @@
 
 
 ## Deployment addresses
-### Ethereum mainnet
+### Polygon
 
 | Contract | Address | Links |
 ------------------ | ------- | --- |
-| ProfitToken     | `0x3fa5F9c876BEbB41B8924633850b1a9922f7E4F9` | [source code](https://github.com/stabilitydao/core/blob/main/contracts/ProfitToken.sol) [etherscan](https://etherscan.io/address/0x3fa5F9c876BEbB41B8924633850b1a9922f7E4F9) |
+| ProfitToken     | `0x48469a0481254d5945E7E56c1Eb9861429c02f44` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/ProfitToken.sol) [polygonscan](https://polygonscan.com/address/0x48469a0481254d5945E7E56c1Eb9861429c02f44) |
+| GovTimelock    | `0x40Ff0883f6AB81F7d617F9502FDFC5E497fA34d8` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/governance/GovTimelock.sol) [polygonscan](https://polygonscan.com/address/0x40Ff0883f6AB81F7d617F9502FDFC5E497fA34d8) |
+| Gov            | `0x7EE76C309ed8AdCfE9681E05c7612706014274a3` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/governance/Gov.sol) [polygonscan](https://polygonscan.com/address/0x7EE76C309ed8AdCfE9681E05c7612706014274a3) |
+| DividendToken  | `0x9844a1c30462B55cd383A2C06f90BB4171f9D4bB` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/token/DividendToken.sol) [polygonscan](https://polygonscan.com/address/0x9844a1c30462B55cd383A2C06f90BB4171f9D4bB) |
+| DividendMinter | `0x29353bB4c9010c6112a77d702Ac890e70CD73d53` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/pool/DividendMinter.sol) [polygonscan](https://polygonscan.com/address/0x29353bB4c9010c6112a77d702Ac890e70CD73d53) |
+| EtherPayer     | `0xf81FCd61b18BAb470418161B6cFaF95a3796762b` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/payer/EtherPayer.sol) [polygonscan](https://polygonscan.com/address/0xf81FCd61b18BAb470418161B6cFaF95a3796762b) |
 
 ### Testnets
 

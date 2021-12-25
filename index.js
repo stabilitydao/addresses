@@ -1,15 +1,25 @@
 export const MAINNET = 1
+export const POLYGON = 137
 export const ROPSTEN = 3
 export const RINKEBY = 4
 export const GOERLI = 5
 export const KOVAN = 42
 export const MUMBAI = 80001
-// export const OPTIMISTIC_KOVAN = 69
 
 export default {
+  [POLYGON]: {
+    token: '0x48469a0481254d5945E7E56c1Eb9861429c02f44',
+    devFund: '0x36780E69D38c8b175761c6C5F8eD42E61ee490E9',
+    weth: '0x7ceb23fd6bc0add59e62ac25578270cff1b9f619',
+    dToken: '0x9844a1c30462B55cd383A2C06f90BB4171f9D4bB',
+    dPool: '0x29353bB4c9010c6112a77d702Ac890e70CD73d53',
+    dPayers: [
+      '0xf81FCd61b18BAb470418161B6cFaF95a3796762b',
+    ],
+    govTl: '0x40Ff0883f6AB81F7d617F9502FDFC5E497fA34d8',
+    gov: '0x7EE76C309ed8AdCfE9681E05c7612706014274a3',
+  },
   [MAINNET]: {
-    token: '0x3fa5F9c876BEbB41B8924633850b1a9922f7E4F9',
-    devFund: '0xEb49018157bAF7F1B385657D10fF5a5a5F4BB4c9',
     weth: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
   },
   [ROPSTEN]: {
