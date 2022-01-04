@@ -18,6 +18,7 @@ export default {
     ],
     govTl: '0x40Ff0883f6AB81F7d617F9502FDFC5E497fA34d8',
     gov: '0x7EE76C309ed8AdCfE9681E05c7612706014274a3',
+    splitter: '0xa2B13bc8d067a73C75bd09C6991c45D21b1067b2',
   },
   [ROPSTEN]: {
     token: '0x29E4d6c08e3AD060Dc2fC8DCE70AaB8C8c57563F',
@@ -43,6 +44,7 @@ export default {
     ],
     govTl: '0xE6b2Da12b51E7a6561cEB04C9cE9E29487c38F23',
     gov: '0xC2eAfC3F3Ee1677A1C0B827Aa3a410D74653FC91',
+    splitter: '0x8bDd46A71c4819f275e46067166dDC21676c44a7',
   },
   [RINKEBY]: {
     token: '0x7D68ECf1762bA27120d0f98BFcFa0da67eb15860',
