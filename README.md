@@ -45,6 +45,7 @@
 | DividendToken  | `0x424E1eAe04a2580EcD4d5f19Ad5285cC2b05a05C` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/token/DividendToken.sol) [etherscan](https://ropsten.etherscan.io/address/0x424E1eAe04a2580EcD4d5f19Ad5285cC2b05a05C)    |
 | DividendMinter | `0x20169ebb1b60ee0c45ECAa5235551cC69Ea788C0` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/pool/DividendMinter.sol) [etherscan](https://ropsten.etherscan.io/address/0x20169ebb1b60ee0c45ECAa5235551cC69Ea788C0)    |
 | EtherPayer     | `0x6BaF629618551Cb7454013F67f5d4A9119A61627` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/payer/EtherPayer.sol) [etherscan](https://ropsten.etherscan.io/address/0x6BaF629618551Cb7454013F67f5d4A9119A61627)       |
+| ProfitPayer    | `0xfAaF85133C142b872061bE1e254f099E50edbD2f` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/payer/ProfitPayer.sol) [etherscan](https://ropsten.etherscan.io/address/0xfAaF85133C142b872061bE1e254f099E50edbD2f)      |
 | Splitter       | `0x41c07333E5D979e6E3915eD7eb253D52cA538c01` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/splitter/Splitter.sol) [etherscan](https://ropsten.etherscan.io/address/0x41c07333E5D979e6E3915eD7eb253D52cA538c01)      |
 
 
