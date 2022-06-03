@@ -20,7 +20,8 @@
 | EtherPayer     | `0xf81FCd61b18BAb470418161B6cFaF95a3796762b` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/payer/EtherPayer.sol) [polygonscan](https://polygonscan.com/address/0xf81FCd61b18BAb470418161B6cFaF95a3796762b)        |
 | ProfitPayer    | `0x2165f4F4F13A7cd900cfCC9035AB03401fe9270C` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/payer/ProfitPayer.sol) [polygonscan](https://polygonscan.com/address/0x2165f4F4F13A7cd900cfCC9035AB03401fe9270C)       |
 | Splitter       | `0xa2B13bc8d067a73C75bd09C6991c45D21b1067b2` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/splitter/Splitter.sol) [polygonscan](https://polygonscan.com/address/0xa2B13bc8d067a73C75bd09C6991c45D21b1067b2)       |
-| ProfitMaker | `0xAA3e3709C79a133e56C17a7ded87802adF23083B` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/token/ProfitMaker.sol) [polygonscan](https://polygonscan.com/address/0xAA3e3709C79a133e56C17a7ded87802adF23083B)       |
+| ProfitMaker    | `0xAA3e3709C79a133e56C17a7ded87802adF23083B` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/token/ProfitMaker.sol) [polygonscan](https://polygonscan.com/address/0xAA3e3709C79a133e56C17a7ded87802adF23083B)       |
+| RevenueRouter  | `0x005d71553aD3f8f919E5121aA45Bf24594DCE0d6` | [source code](https://github.com/stabilitydao/core/blob/develop/contracts/splitter/RevenueRouter.sol) [polygonscan](https://polygonscan.com/address/0x005d71553aD3f8f919E5121aA45Bf24594DCE0d6)    |
 
 
 ### Testnets
